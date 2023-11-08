@@ -1328,3 +1328,7 @@ http://60-fps.org/bt:80/announce.php
 http://torrent.unix-ag.uni-kl.de:80/announce
 http://60-fps.org:80/bt/announce.php
 http://tracker.gdp.pw:900/announce
+http://bt2.edwardk.info:6969/announce
+http://tracker.linkomanija.org:2710/announce
+https://tr.ready4.icu:443/announce
+udp://tracker.anima.nz:6969/announce
